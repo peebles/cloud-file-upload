@@ -8,8 +8,8 @@ Protected with Basic Auth.
 
 ## Build Docker Image
 
-   ( cd server; npm install )
-   docker build -t uploader .
+     ( cd server; npm install )
+     docker build -t uploader .
 
 ## Local Run Example
 
